@@ -3,7 +3,6 @@ import { ProjectCard } from "./ProjectCard";
 import ecomm from "../assets/img/ecomm.png";
 import tasktrack from "../assets/img/tasktracker.png";
 import hopehack from "../assets/img/Hopehacks.png";
-import projImg3 from "../assets/img/project-img3.png";
 import counter from "../assets/img/counter.png";
 import tictac from "../assets/img/tictac.png";
 import better from "../assets/img/bettermind.png";
