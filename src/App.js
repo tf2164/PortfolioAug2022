@@ -13,11 +13,9 @@ function App() {
     <div className="App">
       <NavBar />
       <Banner />
-      
       <Skills2 />
       <Projects />
       <Contact />
-    
       <Footer />
     </div>
   );
